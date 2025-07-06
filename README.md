@@ -6,3 +6,4 @@ testing jj new updates
 
 - foo
 - bar
+- baz in origin
