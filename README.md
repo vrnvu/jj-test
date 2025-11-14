@@ -8,13 +8,13 @@ testing jj new updates
 - bar
 - baz in origin
 
-## 1
+## Auth base
 
-Text 1
+Changing auth base for stacked PR demo
 
-## 2
+## JWT Tokens
 
-2!
+Documentation for JWT Tokens
 
 # New section
 
