@@ -15,3 +15,13 @@ testing jj new updates
 ## feature branch 2
 
 2!
+
+# New section
+
+Adds intro to new section
+
+- a 
+- b
+- c
+
+Final thoughts
