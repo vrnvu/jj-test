@@ -8,9 +8,9 @@ testing jj new updates
 - bar
 - baz in origin
 
-## feature branch 1
+## Auth base
 
-1
+Changing auth base for stacked PR demo
 
 ## feature branch 2
 
